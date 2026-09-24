@@ -16,6 +16,13 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="https://www.figma.com/proto/58nxQoptrj1nH5IHjItldg/CakeInApp?node-id=721-10487&starting-point-node-id=721%3A10487&t=rWgMob40z0BTruuL-1" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Figma%20Design-FF7262?style=for-the-badge&logo=figma&logoColor=white" alt="View Figma Design">
+  </a>
+</p>
+
+https://www.figma.com/proto/58nxQoptrj1nH5IHjItldg/CakeInApp?node-id=721-10487&starting-point-node-id=721%3A10487&t=rWgMob40z0BTruuL-1
 <hr>
 
 <h2>📖 About The Project</h2>
@@ -190,7 +197,7 @@
                   ✅ Order
 
 
-<h2 align="center">🎂 Cakein App Preview</h2>
+<h2 align="center">🎂 Cakeinn App Preview</h2>
 
 <p align="center">
   <b>Explore the Cakein cake ordering app UI designed in Figma</b>
@@ -198,94 +205,26 @@
 
 <br>
 
-<table align="center">
-  <tr>
-    <td align="center">
-      <img src="capp1.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="capp2.png" width="220px" alt="Login Screen">
-      <br><b>🔐 Login</b>
-    </td>
-    <td align="center">
-      <img src="capp3.png" width="220px" alt="Signup Screen">
-      <br><b>📝 Signup</b>
-    </td>
-    <td align="center">
-      <img src="capp4.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="capp5.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="capp6.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="capp7.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="capp8.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="cap91.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="capp9.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="capp10.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="capp11.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="capp12.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="capp13.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-    <td align="center">
-      <img src="capp14.png" width="220px" alt="Splash Screen">
-      <br><b>✨ Splash</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="capp1.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp2.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp3.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp4.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp5.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp6.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp7.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp8.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp9.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp10.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp11.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp12.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp13.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp14.png" alt="🎂 Cakeinn App" width="600">
+</p>
 
 <br>
 
-<h3 align="center">📱 Complete Cakein User Flow</h3>
 
-<p align="center">
-  ✨ Splash
-  →
-  🔐 Login / Signup
-  →
-  🏠 Home
-  →
-  🔎 Search
-  →
-  🍰 All Cakes
-  →
-  🎂 Cake Details
-  →
-  🛍️ Purchase
-  →
-  🛒 Cart
-  →
-  💳 Checkout
-</p>
 
 <h3 align="center">🎨 Figma Prototype</h3>
 
