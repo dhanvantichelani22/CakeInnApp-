@@ -176,6 +176,12 @@
 
 <br>
 
+<h2>👨‍💻 Author</h2>
+<p>
+  <strong>Dhanvanti Chelani</strong>
+</p>
+
+
 <h2>📱 Application Flow</h2>
 
 <p align="center">
