@@ -11,19 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="YOUR_FIGMA_LINK">
-    <img src="https://img.shields.io/badge/View%20Figma%20Design-FF7262?style=for-the-badge&logo=figma&logoColor=white" alt="View Figma Design">
-  </a>
-</p>
-
-<p align="center">
   <a href="https://www.figma.com/proto/58nxQoptrj1nH5IHjItldg/CakeInApp?node-id=721-10487&starting-point-node-id=721%3A10487&t=rWgMob40z0BTruuL-1" target="_blank">
     <img src="https://img.shields.io/badge/View%20Figma%20Design-FF7262?style=for-the-badge&logo=figma&logoColor=white" alt="View Figma Design">
   </a>
 </p>
-
-https://www.figma.com/proto/58nxQoptrj1nH5IHjItldg/CakeInApp?node-id=721-10487&starting-point-node-id=721%3A10487&t=rWgMob40z0BTruuL-1
-<hr>
 
 <h2>📖 About The Project</h2>
 
@@ -157,6 +148,34 @@ https://www.figma.com/proto/58nxQoptrj1nH5IHjItldg/CakeInApp?node-id=721-10487&s
   <li>Place order interface.</li>
 </ul>
 
+<br>
+<h2 align="center">🎂 Cakeinn App Preview</h2>
+
+<p align="center">
+  <b>Explore the Cakein cake ordering app UI designed in Figma</b>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="capp1.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp2.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp3.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp4.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp5.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp6.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp7.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp8.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp9.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp10.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp11.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp12.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp13.png" alt="🎂 Cakeinn App" width="600">
+  <img src="capp14.png" alt="🎂 Cakeinn App" width="600">
+</p>
+
+<br>
+
 <h2>📱 Application Flow</h2>
 
 <p align="center">
@@ -197,42 +216,7 @@ https://www.figma.com/proto/58nxQoptrj1nH5IHjItldg/CakeInApp?node-id=721-10487&s
                   ✅ Order
 
 
-<h2 align="center">🎂 Cakeinn App Preview</h2>
-
-<p align="center">
-  <b>Explore the Cakein cake ordering app UI designed in Figma</b>
-</p>
-
-<br>
-
-<p align="center">
-  <img src="capp1.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp2.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp3.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp4.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp5.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp6.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp7.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp8.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp9.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp10.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp11.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp12.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp13.png" alt="🎂 Cakeinn App" width="600">
-  <img src="capp14.png" alt="🎂 Cakeinn App" width="600">
-</p>
-
-<br>
 
 
 
-<h3 align="center">🎨 Figma Prototype</h3>
 
-<p align="center">
-  <a href="YOUR_FIGMA_LINK">
-    <img
-      src="https://img.shields.io/badge/🎨%20View%20Figma%20Prototype-FF7262?style=for-the-badge&logo=figma&logoColor=white"
-      alt="View Figma Prototype"
-    >
-  </a>
-</p>
